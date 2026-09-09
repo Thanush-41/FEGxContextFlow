@@ -1,0 +1,18 @@
+{
+  "assembledAt": "2026-09-09T05:35:17.265946+00:00",
+  "android": "Release built and installed on emulator-5554; physical Android not tested",
+  "iPhone": "Release QA build installed on registered physical iPhone; typed UI journey passed",
+  "finalHumanVoiceAcceptance": "pending",
+  "files": [
+    {
+      "file": "ContextFlow-Android-demo.apk",
+      "sha256": "ea61b30b2333395688635821b10d8a60533a6f5991dffa36a8651196310479c0",
+      "bytes": 108000392
+    },
+    {
+      "file": "ContextFlow-iPhone-development.app.zip",
+      "sha256": "14fa9905dccdc744a45ee8d8039877b24662e8e59b9dcbb58a05433906d97f56",
+      "bytes": 13392344
+    }
+  ]
+}

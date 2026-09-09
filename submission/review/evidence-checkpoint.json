@@ -1,0 +1,70 @@
+{
+  "recordedAt": "2026-09-09T05:38:33.737515+00:00",
+  "backendTests": 34,
+  "mobileTests": 29,
+  "iPhoneTypedCapture": "passed",
+  "humanRunsCertified": 0,
+  "backendDeployment": 14,
+  "sources": [
+    {
+      "path": "shared/contracts.ts",
+      "sha256": "89b62e20974a01d3b5ed837557da25d7ff8d9f3c886f771d619dcf2f31eadf8b"
+    },
+    {
+      "path": "shared/safeguards.ts",
+      "sha256": "ff0edbbb9ce9753aca77473652e536d44d3bd0d715f5696d73755e767a2637a7"
+    },
+    {
+      "path": "shared/schemas.ts",
+      "sha256": "cf71a494f51efee485b89567edf34b9555442262629961cfc013dd5880f571d7"
+    },
+    {
+      "path": "server/src/actions.ts",
+      "sha256": "c06b29d2caaf7a52d69b76f8106200eb65ce93090545572b51c7d44ac760df78"
+    },
+    {
+      "path": "server/src/feed.ts",
+      "sha256": "ff0c83195f347c9c46f1b282c01047db5017bb9f65558c6ebaed4cf6450f4d2a"
+    },
+    {
+      "path": "server/src/store.ts",
+      "sha256": "b762d1f4fea6aa48f42d3cb678036fa7f742dc62f9445988b4647700284feddf"
+    },
+    {
+      "path": "server/src/new-session.ts",
+      "sha256": "75578feb6bbea989e71480ae1e2ad59d68ef43b91dea5a88e361d193f11e1c68"
+    },
+    {
+      "path": "server/edge/handler.ts",
+      "sha256": "e7102e9a8f592307e3a54871e8e8fa4742685694bbb3f368543e401b1ef76656"
+    },
+    {
+      "path": "supabase/functions/contextflow-api/index.ts",
+      "sha256": "80ce76e976b3febf7f85a31eb0e4833149e4985727ca7bb8f7b08508c1be1d62"
+    },
+    {
+      "path": "mobile/App.tsx",
+      "sha256": "03d235e73ea5a133385b7d4542996e2bd0ce4dc55f79bf96282a9254fd37a647"
+    },
+    {
+      "path": "mobile/src/VoiceUI.tsx",
+      "sha256": "258ac997ae703a87b290f904fe536b283c09307d071b5a967f0e6208dafb0ade"
+    },
+    {
+      "path": "mobile/ios-feg-qa/ContextFlow/VoiceCoordinator.swift",
+      "sha256": "e22cce8ba1de0fca892fe99100976a806b29d88e08d40f0392963475c78ba63f"
+    },
+    {
+      "path": "mobile/ios-feg-qa/ContextFlowWidgets/ContextFlowWidgets.swift",
+      "sha256": "4a01d8cae542a17180ff932f1e09a66d87de4559ef3d605266465b2176592282"
+    },
+    {
+      "path": "mobile/ios-feg-qa/Shared/ContextActivityAttributes.swift",
+      "sha256": "ab5fe6a423e4045cc125d7fe3e7adb4818dad9f99f9bf5469288cbd145ff2755"
+    },
+    {
+      "path": "mobile/android/app/src/main/java/com/contextflow/prototype/VoiceEngine.kt",
+      "sha256": "4efb471ab98b74557637f6371005ec43ff74639d3b09141828ae54c036d89311"
+    }
+  ]
+}

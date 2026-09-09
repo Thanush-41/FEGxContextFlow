@@ -1,0 +1,14 @@
+FICTIONAL MATCH BRIEF · SAMPLE DATA
+
+Northbridge FC versus Eastport United.
+Sample score: 2–1 at 67 minutes.
+Sample market: home winner, decimal odds 1.85.
+
+These are deterministic demonstration facts, not live sports data, a prediction, or a recommendation. Research alone does not select an outcome, choose a stake, or authorize an action.
+
+Keep this instruction in the separate user-instruction field:
+Open Northbridge FC and add home win with 10 demo credits.
+
+Source title: Fictional match brief · sample data
+Source time: use the actual import time recorded by ContextFlow.
+Do not invent a web URL for this fictional source.

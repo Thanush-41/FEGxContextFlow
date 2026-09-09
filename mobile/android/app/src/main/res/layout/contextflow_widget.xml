@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="18dp" android:background="#10151E">
+ <TextView android:id="@+id/widget_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="READY" android:textColor="#91BAFF" android:textSize="10sp" />
+ <TextView android:id="@+id/widget_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ContextFlow" android:textColor="#FFFFFF" android:textStyle="bold" android:textSize="18sp" android:maxLines="2" />
+ <TextView android:id="@+id/widget_detail" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:textColor="#A9B6CA" android:textSize="12sp" android:maxLines="3" />
+ <Button android:id="@+id/widget_voice" android:layout_width="match_parent" android:layout_height="48dp" android:text="Continue by voice" android:textColor="#FFFFFF" android:backgroundTint="#2563EB" />
+</LinearLayout>

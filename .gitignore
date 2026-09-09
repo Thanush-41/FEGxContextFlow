@@ -1,0 +1,35 @@
+.firecrawl/
+.superdesign/tmp/
+node_modules/
+dist/
+.DS_Store
+
+# Generated native dependencies and build products
+Pods/
+build/
+.gradle/
+DerivedData/
+*.xcresult/
+*.dSYM/
+*.app
+*.apk
+*.ipa
+*.zip
+xcuserdata/
+*.xcuserstate
+mobile/android/local.properties
+
+# Generated submission working files and packaged binaries
+submission/working/
+submission/builds/*.apk
+submission/builds/*.app.zip
+
+
+# Private configuration and generated voice data
+.env
+.env.*
+!.env.example
+backups/
+server/data/
+artifacts/
+mobile/ios-voice-qa/

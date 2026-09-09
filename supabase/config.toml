@@ -1,0 +1,4 @@
+project_id = "contextflow"
+[functions.contextflow-api]
+verify_jwt = false
+entrypoint = "./functions/contextflow-api/index.ts"

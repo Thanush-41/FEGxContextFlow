@@ -1,0 +1,289 @@
+{
+  "createdAt": "2026-09-09",
+  "stage": "storyboard review",
+  "storyboardApproved": false,
+  "flowGenerations": 0,
+  "stills": {
+    "phone": "Use case: product-mockup. Asset type: ContextFlow hackathon storyboard cinematic background plate, 16:9 landscape. A premium, realistic graphite smartphone with a completely blank deep-navy glass screen, standing upright on the RIGHT third of a wide dark studio. Camera almost straight on, modest three-quarter perspective. Deep navy #10151E background, restrained electric-blue #2563EB side light, soft #91BAFF rim light, subtle ground reflection. Phone occupies about 72% of frame height; the entire phone stays visible. Left half is generous clean negative space for separately typeset presentation text. Restrained cinematic product photography, believable materials, quiet confidence. No text, numbers, UI, app icons, charts, logos, hands, people, extra devices or holograms. This is illustrative staging, not evidence of app behavior. Produce a sharp 16:9 image.",
+    "watch": "Use case: product-mockup. Asset: ContextFlow Watch concept storyboard plate, 16:9. One realistic graphite rectangular smartwatch with a black woven band, floating just above a dark matte studio table on the RIGHT half. Entire watch and band visible, screen faces camera with a slight 10-degree tilt, large blank deep-navy screen, no UI or reflections obscuring the screen. Deep navy #10151E atmosphere, electric blue #2563EB edge lighting, pale blue #91BAFF rim, soft believable contact shadow. Left half clean negative space. Premium restrained product photography, matching a navy-and-blue smartphone keynote. No text, logos, numbers, icons, hands, people, holograms or additional objects. Future concept illustration, not evidence of a built app. Screen content and CONCEPT label will be composited separately.",
+    "mac": "Use case: product-mockup. Asset: ContextFlow Mac concept storyboard plate, 16:9. One realistic large slim graphite desktop monitor on a refined aluminium stand occupies the RIGHT half of a dark matte studio table. It is a desktop computer display, not a laptop. Entire device visible with the screen almost front-facing, slight three-quarter angle, a completely blank deep-navy screen. Deep navy #10151E background, electric blue #2563EB illumination, restrained pale blue #91BAFF rim and soft reflection, matching premium smartphone and smartwatch keynote plates. Left half is clean negative space. Believable product photography with restrained lighting. No UI, text, numbers, logos, keyboards, people, hands, cables, floating panels or holograms. Future concept illustration, not evidence of working software. Exact UI and a CONCEPT label will be separately composited."
+  },
+  "scenes": [
+    {
+      "id": "S01",
+      "name": "Home-screen hook",
+      "slide": 1,
+      "plate": "phone-plate.png",
+      "capture": "surface-detail.png",
+      "crop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "first": "Full phone on the right; result has not yet changed.",
+      "last": "Stable screen corners; cut to actual live instruction and result.",
+      "motion": "0-1s hold / 1-4s 2% push / 4-6s hold",
+      "audio": "Soft pulse, then silence beneath the human command.",
+      "check": "Physical widget and muted indicator captured. Human-spoken opening remains pending."
+    },
+    {
+      "id": "S02",
+      "name": "Research handoff",
+      "slide": 3,
+      "plate": "phone-plate.png",
+      "capture": "FEG-02-research-import.png",
+      "crop": [
+        0.045,
+        0.212,
+        0.045,
+        0.495
+      ],
+      "first": "Source evidence and user instruction remain distinct.",
+      "last": "One home-winner selection; stake 10.00 demo credits.",
+      "motion": "0-2s hold / 2-4s edge-light cue / 4-6s hold",
+      "audio": "One soft handoff tick; no generated voice.",
+      "check": "Updated source/instruction card captured on iPhone. Final motion still awaits review."
+    },
+    {
+      "id": "S03",
+      "name": "Voice interaction",
+      "slide": 3,
+      "plate": "phone-plate.png",
+      "capture": "FEG-03-follow-up.png",
+      "crop": [
+        0.028,
+        0.699,
+        0.028,
+        0.114
+      ],
+      "first": "One selection at 10.00; await the user instruction.",
+      "last": "5.00 visible. Nothing placed. Review is still required.",
+      "motion": "0-1s hold / 1-4s 1% lateral drift / 4-6s hold",
+      "audio": "Actual human + agent recording; duck the music.",
+      "check": "Current reference is typed native QA. It does not certify human speech."
+    },
+    {
+      "id": "S04",
+      "name": "Native-surface reveal",
+      "slide": 3,
+      "plate": "phone-plate.png",
+      "capture": "surface-detail.png",
+      "crop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "first": "App result matches the saved task.",
+      "last": "Actual widget / activity / island; preserve stale and muted state.",
+      "motion": "0-2s hold / 2-4s 2% push / 4-6s hold",
+      "audio": "Restrained reveal accent; no urgency cue.",
+      "check": "Updated widget and compact island show MIC MUTED. Lock-screen and restart QA remain open."
+    },
+    {
+      "id": "S05",
+      "name": "Watch concept",
+      "slide": 8,
+      "plate": "watch-concept-plate.png",
+      "capture": null,
+      "first": "Entire watch and band; blank screen plate.",
+      "last": "Same pose, closer; concept label remains visible.",
+      "motion": "0-1s hold / 1-4s 2% push / 4-6s hold",
+      "audio": "Gentle lift; no victory or betting-pressure cue.",
+      "check": "Still inspected. Future concept only; no Watch app exists."
+    },
+    {
+      "id": "S06",
+      "name": "Mac concept",
+      "slide": 8,
+      "plate": "mac-concept-plate.png",
+      "capture": null,
+      "first": "Full monitor and stand; matching navy studio.",
+      "last": "Pull back to resolve into the 30-day pilot ask.",
+      "motion": "0-2s hold / 2-4s 2% pull-back / 4-6s hold",
+      "audio": "Quiet musical resolution beneath the presenter.",
+      "check": "Still inspected. Future concept only; no Mac implementation is claimed."
+    }
+  ],
+  "assets": [
+    {
+      "file": "assets/FEG-01-sample-home.png",
+      "sha256": "0f0d721ec1fb83958d3bcf052ef27156ddabafa9fa47f91a081f571d76c7f181",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-02-research-import.png",
+      "sha256": "dfad6b5a193d53eb2741327e632e6020adeb7a8882dc7859738fed02e1ce2478",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-03-follow-up.png",
+      "sha256": "3565c287d1b7e5c3d55555e5ceecfc71eaf8d54b490dcae03b4715a11263f67d",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-05-exact-review.png",
+      "sha256": "573032b87517ae1c049f273a2a1a888e4dbc48ea5a6ae92c54c235d9c8cbf929",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-06-receipt.png",
+      "sha256": "9f03b14fdc4cec73578683228b969aaff0e1b15b6bd15583043930449cbb18d4",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-07-consent.png",
+      "sha256": "985715f975a5f8fe4d039176746d16fdfc916f0eccd81acaaefeb3f5be646f56",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/FEG-08-suppression.png",
+      "sha256": "75b44975162d6eef1a63f5dbcc9e4b3e822addfe8a7a6e4b7fa8a272e3f7a786",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/android-consent.png",
+      "sha256": "8578d2e683201a465ea0608b9f7baabfe9a8709b681ac1910e0b8ea08afdd8d3",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/consent-detail.png",
+      "sha256": "a83b0fddce3f30d3f97df8336d0f7815db8f8d1e207e993cd590eabdecf99d47",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/mac-concept-plate.png",
+      "sha256": "dd2e7273ffa59a88192506b7393feb0bbc30808dab7df082f1d0b9de8d6d9c58",
+      "role": "generated blank-screen plate",
+      "inspected": true,
+      "approval": "still accepted for storyboard review"
+    },
+    {
+      "file": "assets/phone-plate.png",
+      "sha256": "b9b9aff2972c3df2ef52e05ff385280f107c91ec59196b06a86d4fa8fc6c6735",
+      "role": "generated blank-screen plate",
+      "inspected": true,
+      "approval": "still accepted for storyboard review"
+    },
+    {
+      "file": "assets/research-context-detail.png",
+      "sha256": "48ce869a6cb24dde52333a3721bd61fc611a31ad59a1ece85aa4fe202197db1b",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/review-detail.png",
+      "sha256": "dcd79b1ba5b88783babc3fa378a35e197ed6258e1c37ff93284af928335a7544",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/surface-detail.png",
+      "sha256": "74eb1bd744d68466961ebec89db6e8abc196bf98b18ae561c3a119707c8e51fb",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/voice-state-detail.png",
+      "sha256": "8ed2713a7d34750f1474a76d0938e7233460801fe8c9edb93c7964fc42b932cb",
+      "role": "native evidence / compositing only",
+      "inspected": true,
+      "approval": "layout reference only; final capture pending"
+    },
+    {
+      "file": "assets/watch-concept-plate.png",
+      "sha256": "fcb61de182b0e472562b34b158be6c53b0e96df406d8b3a1d3750f491d2f3090",
+      "role": "generated blank-screen plate",
+      "inspected": true,
+      "approval": "still accepted for storyboard review"
+    }
+  ],
+  "validation": {
+    "promptStructure": "checked",
+    "plateVisuals": "inspected",
+    "nativeEvidence": "physical iPhone typed QA journey passed; Android emulator controls captured; human runs pending",
+    "flowControlSupport": "6s reference-image workflow within published Omni Flash 1.1 controls",
+    "motionGate": "await storyboard approval and final capture lock",
+    "renderGuarantee": false,
+    "finalPowerPointPlayback": "pending; application unavailable here",
+    "uiCrops": [
+      {
+        "source": "FEG-03-follow-up.png",
+        "output": "voice-state-detail.png",
+        "crop": {
+          "left": 33,
+          "top": 1787,
+          "width": 1112,
+          "height": 478
+        },
+        "operation": "Lossless crop only. No UI content or values changed. Original retained."
+      },
+      {
+        "source": "android-consent.png",
+        "output": "consent-detail.png",
+        "crop": {
+          "left": 52,
+          "top": 732,
+          "width": 976,
+          "height": 1202
+        },
+        "operation": "Lossless crop only. No UI content or values changed. Original retained."
+      },
+      {
+        "source": "FEG-02-research-import.png",
+        "output": "research-context-detail.png",
+        "crop": {
+          "left": 53,
+          "top": 542,
+          "width": 1072,
+          "height": 749
+        },
+        "operation": "Lossless crop only. No UI content or values changed. Original retained."
+      },
+      {
+        "source": "FEG-04-home-live-session.png",
+        "output": "surface-detail.png",
+        "crop": {
+          "left": 0,
+          "top": 0,
+          "width": 1178,
+          "height": 795
+        },
+        "operation": "Lossless crop only. No UI content or values changed. Original retained."
+      },
+      {
+        "source": "FEG-05-exact-review.png",
+        "output": "review-detail.png",
+        "crop": {
+          "left": 53,
+          "top": 1401,
+          "width": 1072,
+          "height": 478
+        },
+        "operation": "Lossless crop only. No UI content or values changed. Original retained."
+      }
+    ]
+  }
+}

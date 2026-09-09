@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "e1",
+    "sport": "football",
+    "league": "Albion Premier League",
+    "country": "Albion",
+    "a": "Northbridge FC",
+    "b": "Eastport United",
+    "short": [
+      "NFC",
+      "EPU"
+    ],
+    "colors": [
+      "#b6c8ed",
+      "#e9c3a5"
+    ],
+    "score": [
+      "2",
+      "1"
+    ],
+    "stage": "67′ · 2nd half",
+    "live": true,
+    "odds": [
+      1.85,
+      3.4,
+      4.2
+    ],
+    "time": "20:45",
+    "hours": 0,
+    "popularity": 100,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.970Z",
+    "startsAt": "2026-09-09T01:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e1-winner-0",
+            "eventId": "e1",
+            "market": "Match winner",
+            "label": "Northbridge FC",
+            "odds": 1.85,
+            "marketId": "e1-m-0"
+          },
+          {
+            "id": "e1-winner-1",
+            "eventId": "e1",
+            "market": "Match winner",
+            "label": "Draw",
+            "odds": 3.4,
+            "marketId": "e1-m-0"
+          },
+          {
+            "id": "e1-winner-2",
+            "eventId": "e1",
+            "market": "Match winner",
+            "label": "Eastport United",
+            "odds": 4.2,
+            "marketId": "e1-m-0"
+          }
+        ],
+        "id": "e1-m-0"
+      },
+      {
+        "name": "Double chance",
+        "options": [
+          {
+            "id": "e1-market-0-0",
+            "eventId": "e1",
+            "market": "Double chance",
+            "label": "Home or draw",
+            "odds": 1.21,
+            "marketId": "e1-m-1"
+          },
+          {
+            "id": "e1-market-0-1",
+            "eventId": "e1",
+            "market": "Double chance",
+            "label": "Away or draw",
+            "odds": 1.98,
+            "marketId": "e1-m-1"
+          },
+          {
+            "id": "e1-market-0-2",
+            "eventId": "e1",
+            "market": "Double chance",
+            "label": "Home or away",
+            "odds": 1.28,
+            "marketId": "e1-m-1"
+          }
+        ],
+        "id": "e1-m-1"
+      },
+      {
+        "name": "Total goals",
+        "options": [
+          {
+            "id": "e1-market-1-0",
+            "eventId": "e1",
+            "market": "Total goals",
+            "label": "Over 2.5",
+            "odds": 1.57,
+            "marketId": "e1-m-2"
+          },
+          {
+            "id": "e1-market-1-1",
+            "eventId": "e1",
+            "market": "Total goals",
+            "label": "Under 2.5",
+            "odds": 2.36,
+            "marketId": "e1-m-2"
+          }
+        ],
+        "id": "e1-m-2"
+      },
+      {
+        "name": "Both teams to score",
+        "options": [
+          {
+            "id": "e1-market-2-0",
+            "eventId": "e1",
+            "market": "Both teams to score",
+            "label": "Yes",
+            "odds": 1.64,
+            "marketId": "e1-m-3"
+          },
+          {
+            "id": "e1-market-2-1",
+            "eventId": "e1",
+            "market": "Both teams to score",
+            "label": "No",
+            "odds": 2.2,
+            "marketId": "e1-m-3"
+          }
+        ],
+        "id": "e1-m-3"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e1-market-3-0",
+            "eventId": "e1",
+            "market": "Handicap",
+            "label": "Home −1",
+            "odds": 2.1,
+            "marketId": "e1-m-4"
+          },
+          {
+            "id": "e1-market-3-1",
+            "eventId": "e1",
+            "market": "Handicap",
+            "label": "Away +1",
+            "odds": 1.74,
+            "marketId": "e1-m-4"
+          }
+        ],
+        "id": "e1-m-4"
+      },
+      {
+        "name": "Next scorer",
+        "options": [
+          {
+            "id": "e1-market-4-0",
+            "eventId": "e1",
+            "market": "Next scorer",
+            "label": "Northbridge FC",
+            "odds": 1.9,
+            "marketId": "e1-m-5"
+          },
+          {
+            "id": "e1-market-4-1",
+            "eventId": "e1",
+            "market": "Next scorer",
+            "label": "Eastport United",
+            "odds": 2.8,
+            "marketId": "e1-m-5"
+          },
+          {
+            "id": "e1-market-4-2",
+            "eventId": "e1",
+            "market": "Next scorer",
+            "label": "No more goals",
+            "odds": 4.3,
+            "marketId": "e1-m-5"
+          }
+        ],
+        "id": "e1-m-5"
+      },
+      {
+        "name": "Correct score",
+        "options": [
+          {
+            "id": "e1-market-5-0",
+            "eventId": "e1",
+            "market": "Correct score",
+            "label": "2–1",
+            "odds": 4.4,
+            "marketId": "e1-m-6"
+          },
+          {
+            "id": "e1-market-5-1",
+            "eventId": "e1",
+            "market": "Correct score",
+            "label": "3–1",
+            "odds": 5.5,
+            "marketId": "e1-m-6"
+          },
+          {
+            "id": "e1-market-5-2",
+            "eventId": "e1",
+            "market": "Correct score",
+            "label": "2–2",
+            "odds": 6.1,
+            "marketId": "e1-m-6"
+          }
+        ],
+        "id": "e1-m-6"
+      },
+      {
+        "name": "Player shots",
+        "options": [
+          {
+            "id": "e1-market-6-0",
+            "eventId": "e1",
+            "market": "Player shots",
+            "label": "J. Vale · Over 1.5",
+            "odds": 1.88,
+            "marketId": "e1-m-7"
+          },
+          {
+            "id": "e1-market-6-1",
+            "eventId": "e1",
+            "market": "Player shots",
+            "label": "J. Vale · Under 1.5",
+            "odds": 1.94,
+            "marketId": "e1-m-7"
+          }
+        ],
+        "id": "e1-m-7"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e1-market-7-0",
+            "eventId": "e1",
+            "market": "Custom combination",
+            "label": "Home + over 2.5",
+            "odds": 2.8,
+            "marketId": "e1-m-8"
+          },
+          {
+            "id": "e1-market-7-1",
+            "eventId": "e1",
+            "market": "Custom combination",
+            "label": "Away + both score",
+            "odds": 5.2,
+            "marketId": "e1-m-8"
+          }
+        ],
+        "id": "e1-m-8"
+      }
+    ]
+  },
+  {
+    "id": "e2",
+    "sport": "cricket",
+    "league": "Coastal T20 League",
+    "country": "Coastland",
+    "a": "Coastal Kings",
+    "b": "Highland Royals",
+    "short": [
+      "CK",
+      "HR"
+    ],
+    "colors": [
+      "#b6dca4",
+      "#c1b1de"
+    ],
+    "score": [
+      "146/4",
+      "132/6"
+    ],
+    "stage": "16.2 overs · 2nd innings",
+    "live": true,
+    "odds": [
+      1.62,
+      2.3
+    ],
+    "time": "19:30",
+    "hours": 0,
+    "popularity": 96,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T01:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e2-winner-0",
+            "eventId": "e2",
+            "market": "Match winner",
+            "label": "Coastal Kings",
+            "odds": 1.62,
+            "marketId": "e2-m-0"
+          },
+          {
+            "id": "e2-winner-1",
+            "eventId": "e2",
+            "market": "Match winner",
+            "label": "Highland Royals",
+            "odds": 2.3,
+            "marketId": "e2-m-0"
+          }
+        ],
+        "id": "e2-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e2-market-0-0",
+            "eventId": "e2",
+            "market": "Total points",
+            "label": "Over 165.5",
+            "odds": 1.88,
+            "marketId": "e2-m-1"
+          },
+          {
+            "id": "e2-market-0-1",
+            "eventId": "e2",
+            "market": "Total points",
+            "label": "Under 165.5",
+            "odds": 1.92,
+            "marketId": "e2-m-1"
+          }
+        ],
+        "id": "e2-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e2-market-1-0",
+            "eventId": "e2",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e2-m-2"
+          },
+          {
+            "id": "e2-market-1-1",
+            "eventId": "e2",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e2-m-2"
+          }
+        ],
+        "id": "e2-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e2-market-2-0",
+            "eventId": "e2",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e2-m-3"
+          },
+          {
+            "id": "e2-market-2-1",
+            "eventId": "e2",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e2-m-3"
+          }
+        ],
+        "id": "e2-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e2-market-3-0",
+            "eventId": "e2",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e2-m-4"
+          },
+          {
+            "id": "e2-market-3-1",
+            "eventId": "e2",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e2-m-4"
+          }
+        ],
+        "id": "e2-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e3",
+    "sport": "basketball",
+    "league": "National Hoops League",
+    "country": "Albion",
+    "a": "Metro Falcons",
+    "b": "Harbor Wolves",
+    "short": [
+      "MF",
+      "HW"
+    ],
+    "colors": [
+      "#edbe94",
+      "#99c8d0"
+    ],
+    "score": [
+      "78",
+      "72"
+    ],
+    "stage": "Q3 · 04:28",
+    "live": true,
+    "odds": [
+      1.74,
+      2.15
+    ],
+    "time": "20:00",
+    "hours": 0,
+    "popularity": 90,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T01:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e3-winner-0",
+            "eventId": "e3",
+            "market": "Match winner",
+            "label": "Metro Falcons",
+            "odds": 1.74,
+            "marketId": "e3-m-0"
+          },
+          {
+            "id": "e3-winner-1",
+            "eventId": "e3",
+            "market": "Match winner",
+            "label": "Harbor Wolves",
+            "odds": 2.15,
+            "marketId": "e3-m-0"
+          }
+        ],
+        "id": "e3-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e3-market-0-0",
+            "eventId": "e3",
+            "market": "Total points",
+            "label": "Over 180.5",
+            "odds": 1.88,
+            "marketId": "e3-m-1"
+          },
+          {
+            "id": "e3-market-0-1",
+            "eventId": "e3",
+            "market": "Total points",
+            "label": "Under 180.5",
+            "odds": 1.92,
+            "marketId": "e3-m-1"
+          }
+        ],
+        "id": "e3-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e3-market-1-0",
+            "eventId": "e3",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e3-m-2"
+          },
+          {
+            "id": "e3-market-1-1",
+            "eventId": "e3",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e3-m-2"
+          }
+        ],
+        "id": "e3-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e3-market-2-0",
+            "eventId": "e3",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e3-m-3"
+          },
+          {
+            "id": "e3-market-2-1",
+            "eventId": "e3",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e3-m-3"
+          }
+        ],
+        "id": "e3-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e3-market-3-0",
+            "eventId": "e3",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e3-m-4"
+          },
+          {
+            "id": "e3-market-3-1",
+            "eventId": "e3",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e3-m-4"
+          }
+        ],
+        "id": "e3-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e4",
+    "sport": "tennis",
+    "league": "Azure Open · Singles",
+    "country": "Coastland",
+    "a": "L. Varen",
+    "b": "A. Renzo",
+    "short": [
+      "LV",
+      "AR"
+    ],
+    "colors": [
+      "#cadcb4",
+      "#b6c8e3"
+    ],
+    "score": [
+      "1",
+      "1"
+    ],
+    "stage": "Set 3 · 4–3 · 30:15",
+    "live": true,
+    "odds": [
+      1.91,
+      1.94
+    ],
+    "time": "19:00",
+    "hours": 0,
+    "popularity": 80,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T01:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e4-winner-0",
+            "eventId": "e4",
+            "market": "Match winner",
+            "label": "L. Varen",
+            "odds": 1.91,
+            "marketId": "e4-m-0"
+          },
+          {
+            "id": "e4-winner-1",
+            "eventId": "e4",
+            "market": "Match winner",
+            "label": "A. Renzo",
+            "odds": 1.94,
+            "marketId": "e4-m-0"
+          }
+        ],
+        "id": "e4-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e4-market-0-0",
+            "eventId": "e4",
+            "market": "Total points",
+            "label": "Over 23.5",
+            "odds": 1.88,
+            "marketId": "e4-m-1"
+          },
+          {
+            "id": "e4-market-0-1",
+            "eventId": "e4",
+            "market": "Total points",
+            "label": "Under 23.5",
+            "odds": 1.92,
+            "marketId": "e4-m-1"
+          }
+        ],
+        "id": "e4-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e4-market-1-0",
+            "eventId": "e4",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e4-m-2"
+          },
+          {
+            "id": "e4-market-1-1",
+            "eventId": "e4",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e4-m-2"
+          }
+        ],
+        "id": "e4-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e4-market-2-0",
+            "eventId": "e4",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e4-m-3"
+          },
+          {
+            "id": "e4-market-2-1",
+            "eventId": "e4",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e4-m-3"
+          }
+        ],
+        "id": "e4-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e4-market-3-0",
+            "eventId": "e4",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e4-m-4"
+          },
+          {
+            "id": "e4-market-3-1",
+            "eventId": "e4",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e4-m-4"
+          }
+        ],
+        "id": "e4-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e5",
+    "sport": "esports",
+    "league": "Nexus Circuit · Semifinal",
+    "country": "Virtual",
+    "a": "Nova Five",
+    "b": "Orbit Club",
+    "short": [
+      "N5",
+      "OC"
+    ],
+    "colors": [
+      "#d9baf1",
+      "#9bd0c5"
+    ],
+    "score": [
+      "1",
+      "0"
+    ],
+    "stage": "Map 2 · Tactical pause",
+    "live": true,
+    "suspended": true,
+    "odds": [
+      1.45,
+      2.8
+    ],
+    "time": "21:00",
+    "hours": 0,
+    "popularity": 75,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T01:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e5-winner-0",
+            "eventId": "e5",
+            "market": "Match winner",
+            "label": "Nova Five",
+            "odds": 1.45,
+            "marketId": "e5-m-0"
+          },
+          {
+            "id": "e5-winner-1",
+            "eventId": "e5",
+            "market": "Match winner",
+            "label": "Orbit Club",
+            "odds": 2.8,
+            "marketId": "e5-m-0"
+          }
+        ],
+        "id": "e5-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e5-market-0-0",
+            "eventId": "e5",
+            "market": "Total points",
+            "label": "Over 180.5",
+            "odds": 1.88,
+            "marketId": "e5-m-1"
+          },
+          {
+            "id": "e5-market-0-1",
+            "eventId": "e5",
+            "market": "Total points",
+            "label": "Under 180.5",
+            "odds": 1.92,
+            "marketId": "e5-m-1"
+          }
+        ],
+        "id": "e5-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e5-market-1-0",
+            "eventId": "e5",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e5-m-2"
+          },
+          {
+            "id": "e5-market-1-1",
+            "eventId": "e5",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e5-m-2"
+          }
+        ],
+        "id": "e5-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e5-market-2-0",
+            "eventId": "e5",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e5-m-3"
+          },
+          {
+            "id": "e5-market-2-1",
+            "eventId": "e5",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e5-m-3"
+          }
+        ],
+        "id": "e5-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e5-market-3-0",
+            "eventId": "e5",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e5-m-4"
+          },
+          {
+            "id": "e5-market-3-1",
+            "eventId": "e5",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e5-m-4"
+          }
+        ],
+        "id": "e5-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e6",
+    "sport": "football",
+    "league": "Albion Premier League",
+    "country": "Albion",
+    "a": "Westhaven Athletic",
+    "b": "Oakfield City",
+    "short": [
+      "WHA",
+      "OFC"
+    ],
+    "colors": [
+      "#c6daa7",
+      "#a9bed8"
+    ],
+    "score": [
+      "–",
+      "–"
+    ],
+    "stage": "Today · 22:00",
+    "live": false,
+    "odds": [
+      2.1,
+      3.25,
+      3.5
+    ],
+    "time": "22:00",
+    "hours": 1,
+    "popularity": 93,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T02:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e6-winner-0",
+            "eventId": "e6",
+            "market": "Match winner",
+            "label": "Westhaven Athletic",
+            "odds": 2.1,
+            "marketId": "e6-m-0"
+          },
+          {
+            "id": "e6-winner-1",
+            "eventId": "e6",
+            "market": "Match winner",
+            "label": "Draw",
+            "odds": 3.25,
+            "marketId": "e6-m-0"
+          },
+          {
+            "id": "e6-winner-2",
+            "eventId": "e6",
+            "market": "Match winner",
+            "label": "Oakfield City",
+            "odds": 3.5,
+            "marketId": "e6-m-0"
+          }
+        ],
+        "id": "e6-m-0"
+      },
+      {
+        "name": "Double chance",
+        "options": [
+          {
+            "id": "e6-market-0-0",
+            "eventId": "e6",
+            "market": "Double chance",
+            "label": "Home or draw",
+            "odds": 1.21,
+            "marketId": "e6-m-1"
+          },
+          {
+            "id": "e6-market-0-1",
+            "eventId": "e6",
+            "market": "Double chance",
+            "label": "Away or draw",
+            "odds": 1.98,
+            "marketId": "e6-m-1"
+          },
+          {
+            "id": "e6-market-0-2",
+            "eventId": "e6",
+            "market": "Double chance",
+            "label": "Home or away",
+            "odds": 1.28,
+            "marketId": "e6-m-1"
+          }
+        ],
+        "id": "e6-m-1"
+      },
+      {
+        "name": "Total goals",
+        "options": [
+          {
+            "id": "e6-market-1-0",
+            "eventId": "e6",
+            "market": "Total goals",
+            "label": "Over 2.5",
+            "odds": 1.57,
+            "marketId": "e6-m-2"
+          },
+          {
+            "id": "e6-market-1-1",
+            "eventId": "e6",
+            "market": "Total goals",
+            "label": "Under 2.5",
+            "odds": 2.36,
+            "marketId": "e6-m-2"
+          }
+        ],
+        "id": "e6-m-2"
+      },
+      {
+        "name": "Both teams to score",
+        "options": [
+          {
+            "id": "e6-market-2-0",
+            "eventId": "e6",
+            "market": "Both teams to score",
+            "label": "Yes",
+            "odds": 1.64,
+            "marketId": "e6-m-3"
+          },
+          {
+            "id": "e6-market-2-1",
+            "eventId": "e6",
+            "market": "Both teams to score",
+            "label": "No",
+            "odds": 2.2,
+            "marketId": "e6-m-3"
+          }
+        ],
+        "id": "e6-m-3"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e6-market-3-0",
+            "eventId": "e6",
+            "market": "Handicap",
+            "label": "Home −1",
+            "odds": 2.1,
+            "marketId": "e6-m-4"
+          },
+          {
+            "id": "e6-market-3-1",
+            "eventId": "e6",
+            "market": "Handicap",
+            "label": "Away +1",
+            "odds": 1.74,
+            "marketId": "e6-m-4"
+          }
+        ],
+        "id": "e6-m-4"
+      },
+      {
+        "name": "Next scorer",
+        "options": [
+          {
+            "id": "e6-market-4-0",
+            "eventId": "e6",
+            "market": "Next scorer",
+            "label": "Westhaven Athletic",
+            "odds": 1.9,
+            "marketId": "e6-m-5"
+          },
+          {
+            "id": "e6-market-4-1",
+            "eventId": "e6",
+            "market": "Next scorer",
+            "label": "Oakfield City",
+            "odds": 2.8,
+            "marketId": "e6-m-5"
+          },
+          {
+            "id": "e6-market-4-2",
+            "eventId": "e6",
+            "market": "Next scorer",
+            "label": "No more goals",
+            "odds": 4.3,
+            "marketId": "e6-m-5"
+          }
+        ],
+        "id": "e6-m-5"
+      },
+      {
+        "name": "Correct score",
+        "options": [
+          {
+            "id": "e6-market-5-0",
+            "eventId": "e6",
+            "market": "Correct score",
+            "label": "2–1",
+            "odds": 4.4,
+            "marketId": "e6-m-6"
+          },
+          {
+            "id": "e6-market-5-1",
+            "eventId": "e6",
+            "market": "Correct score",
+            "label": "3–1",
+            "odds": 5.5,
+            "marketId": "e6-m-6"
+          },
+          {
+            "id": "e6-market-5-2",
+            "eventId": "e6",
+            "market": "Correct score",
+            "label": "2–2",
+            "odds": 6.1,
+            "marketId": "e6-m-6"
+          }
+        ],
+        "id": "e6-m-6"
+      },
+      {
+        "name": "Player shots",
+        "options": [
+          {
+            "id": "e6-market-6-0",
+            "eventId": "e6",
+            "market": "Player shots",
+            "label": "J. Vale · Over 1.5",
+            "odds": 1.88,
+            "marketId": "e6-m-7"
+          },
+          {
+            "id": "e6-market-6-1",
+            "eventId": "e6",
+            "market": "Player shots",
+            "label": "J. Vale · Under 1.5",
+            "odds": 1.94,
+            "marketId": "e6-m-7"
+          }
+        ],
+        "id": "e6-m-7"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e6-market-7-0",
+            "eventId": "e6",
+            "market": "Custom combination",
+            "label": "Home + over 2.5",
+            "odds": 2.8,
+            "marketId": "e6-m-8"
+          },
+          {
+            "id": "e6-market-7-1",
+            "eventId": "e6",
+            "market": "Custom combination",
+            "label": "Away + both score",
+            "odds": 5.2,
+            "marketId": "e6-m-8"
+          }
+        ],
+        "id": "e6-m-8"
+      }
+    ]
+  },
+  {
+    "id": "e7",
+    "sport": "basketball",
+    "league": "National Hoops League",
+    "country": "Albion",
+    "a": "Summit Bears",
+    "b": "Valley Comets",
+    "short": [
+      "SB",
+      "VC"
+    ],
+    "colors": [
+      "#c8b2e5",
+      "#e5c194"
+    ],
+    "score": [
+      "–",
+      "–"
+    ],
+    "stage": "Today · 22:30",
+    "live": false,
+    "odds": [
+      1.88,
+      1.96
+    ],
+    "time": "22:30",
+    "hours": 1.5,
+    "popularity": 78,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T03:07:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e7-winner-0",
+            "eventId": "e7",
+            "market": "Match winner",
+            "label": "Summit Bears",
+            "odds": 1.88,
+            "marketId": "e7-m-0"
+          },
+          {
+            "id": "e7-winner-1",
+            "eventId": "e7",
+            "market": "Match winner",
+            "label": "Valley Comets",
+            "odds": 1.96,
+            "marketId": "e7-m-0"
+          }
+        ],
+        "id": "e7-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e7-market-0-0",
+            "eventId": "e7",
+            "market": "Total points",
+            "label": "Over 180.5",
+            "odds": 1.88,
+            "marketId": "e7-m-1"
+          },
+          {
+            "id": "e7-market-0-1",
+            "eventId": "e7",
+            "market": "Total points",
+            "label": "Under 180.5",
+            "odds": 1.92,
+            "marketId": "e7-m-1"
+          }
+        ],
+        "id": "e7-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e7-market-1-0",
+            "eventId": "e7",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e7-m-2"
+          },
+          {
+            "id": "e7-market-1-1",
+            "eventId": "e7",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e7-m-2"
+          }
+        ],
+        "id": "e7-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e7-market-2-0",
+            "eventId": "e7",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e7-m-3"
+          },
+          {
+            "id": "e7-market-2-1",
+            "eventId": "e7",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e7-m-3"
+          }
+        ],
+        "id": "e7-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e7-market-3-0",
+            "eventId": "e7",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e7-m-4"
+          },
+          {
+            "id": "e7-market-3-1",
+            "eventId": "e7",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e7-m-4"
+          }
+        ],
+        "id": "e7-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e8",
+    "sport": "cricket",
+    "league": "Coastal T20 League",
+    "country": "Coastland",
+    "a": "Riverland XI",
+    "b": "Dune Strikers",
+    "short": [
+      "RXI",
+      "DS"
+    ],
+    "colors": [
+      "#a5cbd6",
+      "#d0bd96"
+    ],
+    "score": [
+      "–",
+      "–"
+    ],
+    "stage": "Today · 23:00",
+    "live": false,
+    "odds": [
+      1.77,
+      2.08
+    ],
+    "time": "23:00",
+    "hours": 2,
+    "popularity": 88,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T03:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e8-winner-0",
+            "eventId": "e8",
+            "market": "Match winner",
+            "label": "Riverland XI",
+            "odds": 1.77,
+            "marketId": "e8-m-0"
+          },
+          {
+            "id": "e8-winner-1",
+            "eventId": "e8",
+            "market": "Match winner",
+            "label": "Dune Strikers",
+            "odds": 2.08,
+            "marketId": "e8-m-0"
+          }
+        ],
+        "id": "e8-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e8-market-0-0",
+            "eventId": "e8",
+            "market": "Total points",
+            "label": "Over 165.5",
+            "odds": 1.88,
+            "marketId": "e8-m-1"
+          },
+          {
+            "id": "e8-market-0-1",
+            "eventId": "e8",
+            "market": "Total points",
+            "label": "Under 165.5",
+            "odds": 1.92,
+            "marketId": "e8-m-1"
+          }
+        ],
+        "id": "e8-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e8-market-1-0",
+            "eventId": "e8",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e8-m-2"
+          },
+          {
+            "id": "e8-market-1-1",
+            "eventId": "e8",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e8-m-2"
+          }
+        ],
+        "id": "e8-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e8-market-2-0",
+            "eventId": "e8",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e8-m-3"
+          },
+          {
+            "id": "e8-market-2-1",
+            "eventId": "e8",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e8-m-3"
+          }
+        ],
+        "id": "e8-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e8-market-3-0",
+            "eventId": "e8",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e8-m-4"
+          },
+          {
+            "id": "e8-market-3-1",
+            "eventId": "e8",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e8-m-4"
+          }
+        ],
+        "id": "e8-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e9",
+    "sport": "tennis",
+    "league": "Azure Open · Singles",
+    "country": "Coastland",
+    "a": "M. Kellan",
+    "b": "S. Alto",
+    "short": [
+      "MK",
+      "SA"
+    ],
+    "colors": [
+      "#b7d8b1",
+      "#d6bcaf"
+    ],
+    "score": [
+      "–",
+      "–"
+    ],
+    "stage": "Tomorrow · 01:00",
+    "live": false,
+    "odds": [
+      2.2,
+      1.68
+    ],
+    "time": "01:00",
+    "hours": 4,
+    "popularity": 60,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T05:37:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e9-winner-0",
+            "eventId": "e9",
+            "market": "Match winner",
+            "label": "M. Kellan",
+            "odds": 2.2,
+            "marketId": "e9-m-0"
+          },
+          {
+            "id": "e9-winner-1",
+            "eventId": "e9",
+            "market": "Match winner",
+            "label": "S. Alto",
+            "odds": 1.68,
+            "marketId": "e9-m-0"
+          }
+        ],
+        "id": "e9-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e9-market-0-0",
+            "eventId": "e9",
+            "market": "Total points",
+            "label": "Over 23.5",
+            "odds": 1.88,
+            "marketId": "e9-m-1"
+          },
+          {
+            "id": "e9-market-0-1",
+            "eventId": "e9",
+            "market": "Total points",
+            "label": "Under 23.5",
+            "odds": 1.92,
+            "marketId": "e9-m-1"
+          }
+        ],
+        "id": "e9-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e9-market-1-0",
+            "eventId": "e9",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e9-m-2"
+          },
+          {
+            "id": "e9-market-1-1",
+            "eventId": "e9",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e9-m-2"
+          }
+        ],
+        "id": "e9-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e9-market-2-0",
+            "eventId": "e9",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e9-m-3"
+          },
+          {
+            "id": "e9-market-2-1",
+            "eventId": "e9",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e9-m-3"
+          }
+        ],
+        "id": "e9-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e9-market-3-0",
+            "eventId": "e9",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e9-m-4"
+          },
+          {
+            "id": "e9-market-3-1",
+            "eventId": "e9",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e9-m-4"
+          }
+        ],
+        "id": "e9-m-4"
+      }
+    ]
+  },
+  {
+    "id": "e10",
+    "sport": "esports",
+    "league": "Nexus Circuit · Final qualifier",
+    "country": "Virtual",
+    "a": "Prism Crew",
+    "b": "Echo Squad",
+    "short": [
+      "PC",
+      "ES"
+    ],
+    "colors": [
+      "#c0b8de",
+      "#b7d0a8"
+    ],
+    "score": [
+      "–",
+      "–"
+    ],
+    "stage": "Today · 23:30",
+    "live": false,
+    "odds": [
+      1.8,
+      2.04
+    ],
+    "time": "23:30",
+    "hours": 2.5,
+    "popularity": 70,
+    "source": "demo",
+    "sourceName": "Fictional demo catalog",
+    "fetchedAt": "2026-09-09T01:37:26.971Z",
+    "startsAt": "2026-09-09T04:07:26.971Z",
+    "markets": [
+      {
+        "name": "Match winner",
+        "options": [
+          {
+            "id": "e10-winner-0",
+            "eventId": "e10",
+            "market": "Match winner",
+            "label": "Prism Crew",
+            "odds": 1.8,
+            "marketId": "e10-m-0"
+          },
+          {
+            "id": "e10-winner-1",
+            "eventId": "e10",
+            "market": "Match winner",
+            "label": "Echo Squad",
+            "odds": 2.04,
+            "marketId": "e10-m-0"
+          }
+        ],
+        "id": "e10-m-0"
+      },
+      {
+        "name": "Total points",
+        "options": [
+          {
+            "id": "e10-market-0-0",
+            "eventId": "e10",
+            "market": "Total points",
+            "label": "Over 180.5",
+            "odds": 1.88,
+            "marketId": "e10-m-1"
+          },
+          {
+            "id": "e10-market-0-1",
+            "eventId": "e10",
+            "market": "Total points",
+            "label": "Under 180.5",
+            "odds": 1.92,
+            "marketId": "e10-m-1"
+          }
+        ],
+        "id": "e10-m-1"
+      },
+      {
+        "name": "Handicap",
+        "options": [
+          {
+            "id": "e10-market-1-0",
+            "eventId": "e10",
+            "market": "Handicap",
+            "label": "Home −2.5",
+            "odds": 1.95,
+            "marketId": "e10-m-2"
+          },
+          {
+            "id": "e10-market-1-1",
+            "eventId": "e10",
+            "market": "Handicap",
+            "label": "Away +2.5",
+            "odds": 1.85,
+            "marketId": "e10-m-2"
+          }
+        ],
+        "id": "e10-m-2"
+      },
+      {
+        "name": "Player performance",
+        "options": [
+          {
+            "id": "e10-market-2-0",
+            "eventId": "e10",
+            "market": "Player performance",
+            "label": "First player · Over 20.5",
+            "odds": 2.1,
+            "marketId": "e10-m-3"
+          },
+          {
+            "id": "e10-market-2-1",
+            "eventId": "e10",
+            "market": "Player performance",
+            "label": "First player · Under 20.5",
+            "odds": 1.74,
+            "marketId": "e10-m-3"
+          }
+        ],
+        "id": "e10-m-3"
+      },
+      {
+        "name": "Custom combination",
+        "options": [
+          {
+            "id": "e10-market-3-0",
+            "eventId": "e10",
+            "market": "Custom combination",
+            "label": "Home + total over",
+            "odds": 3.2,
+            "marketId": "e10-m-4"
+          },
+          {
+            "id": "e10-market-3-1",
+            "eventId": "e10",
+            "market": "Custom combination",
+            "label": "Away + total under",
+            "odds": 3.6,
+            "marketId": "e10-m-4"
+          }
+        ],
+        "id": "e10-m-4"
+      }
+    ]
+  }
+]
